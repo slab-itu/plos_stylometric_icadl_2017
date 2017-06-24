@@ -1,1 +1,1 @@
-This code is to reproduce the results of paper entitled "Lexical and Syntactic Features based Clustering of PLOS Full Text Papers using Stylometry" submitted to JCDL 2017 conference
+This code is to reproduce the results of paper entitled "Lexical and Syntactic Features based Author Attribution on PLOS Full Text Digital Repository through Clustering and Deep Stylometry" submitted to ICADL 2017 conference
